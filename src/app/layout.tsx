@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "FOMO Family — Social Crypto Trading",
+  title: "ChadWallet Family — Social Crypto Trading",
   description:
     "Trade smarter together. Join the social crypto trading platform where you can follow top traders, copy their moves, and never miss an opportunity.",
   keywords: ["crypto", "trading", "social trading", "copy trading", "bitcoin", "defi"],
   openGraph: {
-    title: "FOMO Family — Social Crypto Trading",
+    title: "ChadWallet Family — Social Crypto Trading",
     description: "Trade smarter together. Never miss the next big move.",
     type: "website",
   },
