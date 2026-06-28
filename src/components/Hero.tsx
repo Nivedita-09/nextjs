@@ -39,7 +39,7 @@ export default function Hero() {
 
         {/* "fomo" wordmark */}
         <h1 className="mb-3 text-[clamp(4rem,15vw,9rem)] font-bold leading-none tracking-tight text-[#a8aaf5]">
-          fomo
+          ChadWallet
         </h1>
 
         {/* Tagline */}

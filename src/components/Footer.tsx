@@ -26,8 +26,8 @@ export default function Footer() {
         <div className="flex flex-col gap-10 md:flex-row md:items-start md:justify-between">
           {/* Brand */}
           <div>
-            <Link href="/" className="mb-1 block text-2xl font-black italic text-white">
-              fomo
+            <Link href="/" className="mb-1 block text-2xl font-black  text-white">
+              ChadWallet
             </Link>
             <p className="text-xs text-white/30">where traders become legends.</p>
           </div>
